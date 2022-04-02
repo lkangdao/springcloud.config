@@ -1,2 +1,2 @@
-config:
-  info: "master brabch,springcloud-config/config-dev.yml version1"
+config: 
+  info: "version1"
